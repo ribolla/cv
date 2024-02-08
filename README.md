@@ -2,27 +2,22 @@
 
 # _curriculum vitae_
 
-here you'll find what I have been doing during waking hours so far.
-
-I chose to split the content in paragraphs, hoping it would be easier for readers to focus only on what they are interested in.
-
-
+updated on _02/24_
 
 ## ⌨️ IT Working experience
 
-
 **Backend developer** @ [Where Tech](https://wheretech.it/) _May 21 - present_
 
-Python programmer
+Python programming:
 
-- Data Analysis solutions (pandas, numpy, scipy, ..)
+- Data Analysis (pandas, numpy, scipy, ..)
 - microservices architectures (fastapi, asyncio, ..)
 - GIS workflows and geoprocessing (arcpy, gdal, ..)
-- basics of: Git, Docker, Go, Linux, Rabbit MQ, Java..
+
+Other: Git, Docker, Go, Linux, Rabbit MQ, Java..
 
 
 ## 🔬 Research experience
-
 
 **PostDoctoral researcher** @ Q4Q Lab · University of Trieste _Dic 19 - Aug 20_
 
@@ -33,19 +28,19 @@ Researcher in condensed matter Physics using specroscopy
 - Lab equipment (optical, mechanical, electronic)
 
 
-### 💬 Languages
+## 💬 Languages
 
 **Italian**: mothertongue
+
 **English**: B2
 
 
-### 📃 Certificates
+## 📃 Certificates
 
 [**ArcGIS Pro Foundation**](https://www.credly.com/badges/45c6c71b-e405-4ff3-97c8-a62f0b65b371) _28/01/22_
 
 
-### 📖 Education
-
+## 📖 Education
 
 **Doctor of Philosophy** @ Q4Q Lab · University of Trieste _Sep 16 - Dic 19_
 
@@ -62,8 +57,7 @@ Condensed matter Physics
 Physics
 
 
-### 📝 Teaching experience
-
+## 📝 Teaching experience
 
 **ESRI instructor** @ [Where Tech](https://wheretech.it/) _Sep 21 - present_
 
@@ -87,8 +81,7 @@ One-to-one online lessons for high school students
 Elaboration of excercises and solutions for High School Maths books
 
 
-### 🎤 Dissemination
-
+## 🎤 Dissemination
 
 **Invited contribution** [Where Tech](https://wheretech.it/) _May 23_
 
@@ -109,4 +102,4 @@ Presented scientific achievements and work in progress from our group
 
 
 
-## _If you think we could work together, let's connect: [LinkedIn](https://www.linkedin.com/in/giorgia-sparapassi/)_
+#### _If you think we could work together, let's connect: [LinkedIn](https://www.linkedin.com/in/giorgia-sparapassi/)_
