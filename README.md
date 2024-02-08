@@ -2,6 +2,11 @@
 
 # _curriculum vitae_
 
+here you'll find what I have been doing during waking hours so far.
+
+I chose to split the content in paragraphs, hoping it would be easier for readers to focus only on what they are interested in.
+
+
 
 ## ⌨️ IT Working experience
 
@@ -26,6 +31,17 @@ Researcher in condensed matter Physics using specroscopy
 - Ultrashort near-infrared pulsed laser
 - Liquid crystal spatial light modulator
 - Lab equipment (optical, mechanical, electronic)
+
+
+### 💬 Languages
+
+**Italian**: mothertongue
+**English**: B2
+
+
+### 📃 Certificates
+
+[**ArcGIS Pro Foundation**](https://www.credly.com/badges/45c6c71b-e405-4ff3-97c8-a62f0b65b371) _28/01/22_
 
 
 ### 📖 Education
@@ -76,7 +92,7 @@ Elaboration of excercises and solutions for High School Maths books
 
 **Invited contribution** [Where Tech](https://wheretech.it/) _May 23_
 
-Presented newlty released ESRI technologies (service webhooks and custom data feeds) during the ESRI Italia annual conference
+Presented newly released ESRI technologies (service webhooks and custom data feeds) during the annual conference of ESRI Italia
 
 
 **Scientific seminars** @ Q4Q Lab · University of Trieste _Oct 16 - Aug 20_
@@ -93,6 +109,4 @@ Presented scientific achievements and work in progress from our group
 
 
 
-If you think we could work together, let's connect
-
-[LinkedIn](https://www.linkedin.com/in/giorgia-sparapassi/)
+## _If you think we could work together, let's connect: [LinkedIn](https://www.linkedin.com/in/giorgia-sparapassi/)_
