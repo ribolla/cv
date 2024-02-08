@@ -52,11 +52,6 @@ Investigated light-matter interaction using stochastic laser pulses as a novel t
 Condensed matter Physics
 
 
-**Bachelor degree** @ Sapienza University of Rome _Oct 10 - Nov 13_
-
-Physics
-
-
 ## 📝 Teaching experience
 
 **ESRI instructor** @ [Where Tech](https://wheretech.it/) _Sep 21 - present_
@@ -70,10 +65,7 @@ Teacher of ESRI courses on various GIS topics (online and in-office)
 
 **Private Teacher** _Gen 21 - May 21_
 
-One-to-one online lessons for high school students
-
-- Physics
-- Math
+One-to-one online lessons for high school students: Physics, Maths
 
 
 **External collaborator** @ [Pearson Education](https://plc.pearson.com/) _Sep 20 - Dic 20_
@@ -83,9 +75,9 @@ Elaboration of excercises and solutions for High School Maths books
 
 ## 🎤 Dissemination
 
-**Invited contribution** [Where Tech](https://wheretech.it/) _May 23_
+**Invited contribution** @ annual conference of ESRI Italia _May 23_
 
-Presented newly released ESRI technologies (service webhooks and custom data feeds) during the annual conference of ESRI Italia
+Presented newly released ESRI technologies (service webhooks and custom data feeds)
 
 
 **Scientific seminars** @ Q4Q Lab · University of Trieste _Oct 16 - Aug 20_
