@@ -1,20 +1,22 @@
 # Giorgia Sparapassi
 
 ## _curriculum vitae_
-##### ⚠️ work in progress!
 
+### Working experience\
 
-### Working experience
-
+\
 
 **⌨️ Backend developer** @ [Where Tech](https://wheretech.it/lavora-con-noi/) _May 21 - present_
-· full time · hybrid (Rome, Italy)
 
 Python programmer for Data Analysis solutions, microservices architectures, GIS workflows
+
+
+\
 
 **💎 Physics researcher** @ [Q4Q Lab · University of Trieste](https://www.units.it/) _Dic 19 - Aug 20_
 
 Researcher in condensed matter Physics using specroscopy
+
 
 
 ### Education
