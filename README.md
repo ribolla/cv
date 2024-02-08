@@ -12,7 +12,8 @@ Giorgia Sparapassi
 - Data Analysis solutions (pandas, numpy, scipy, ..)
 - microservices architectures (fastapi, asyncio, ..)
 - GIS workflows and geoprocessing (arcpy, gdal, ..)
-- basics of: Linux, Git, Docker, Go, ..
+- basics of: Git, Docker, Go, Linux, Rabbit MQ, Java..
+
 <br>
 ## Research experience
 <br>
@@ -24,7 +25,8 @@ Technologies used:
 
 - Ultrashort near-infrared pulsed laser
 - Liquid crystal spatial light modulator
-- Various optics & electronics
+- Lab equipment (optical, mechanical, electronic)
+
 <br>
 ### Education
 
@@ -49,7 +51,7 @@ Teacher of ESRI courses on various GIS topics (online and in-office)
 - GIS basics
 - Spatial based statistical analysis
 - ESRI server architectural patterns
-<br>
+
 <br>
 **Teacher** _Gen 21 - May 21_
 
@@ -57,7 +59,7 @@ Private online lessons for high school students
 
 - Physics
 - Math
-<br>
+
 **External collaborator** @ [Pearson Education](https://plc.pearson.com/) _Sep 20 - Dic 20_
 
 Elaboration of excercises and solutions for High School Maths books
