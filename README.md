@@ -12,7 +12,7 @@ Python programming:
 
 - Data Analysis (pandas, numpy, scipy, ..)
 - microservices architectures (fastapi, asyncio, ..)
-- GIS workflows and geoprocessing (arcpy, gdal, ..)
+- GIS workflows and ESRI geoprocessing (arcpy, gdal, ..)
 
 Other: Git, Docker, Go, Linux, Rabbit MQ, Java..
 
@@ -33,12 +33,13 @@ Investigated microscopic processes through light-matter interaction using stocha
 ### 💬 Languages
 
 **Italian**: mothertongue
+
 **English**: B2
 
 
 ### 📃 Certificates
 
-[**ArcGIS Pro Foundation**](https://www.credly.com/badges/45c6c71b-e405-4ff3-97c8-a62f0b65b371) _28/01/22_
+[**ESRI ArcGIS Pro Foundation**](https://www.credly.com/badges/45c6c71b-e405-4ff3-97c8-a62f0b65b371) _28/01/22_
 
 
 
