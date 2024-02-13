@@ -8,7 +8,7 @@ updated on _13/24_
 
 **Backend developer** @ [Where Tech](https://wheretech.it/) _May 21 - present_
 
-Python programming:
+Currently working as a Python programmer:
 
 - Data Analysis (pandas, numpy, scipy, ..)
 - microservices architectures (fastapi, asyncio, ..)
@@ -21,9 +21,9 @@ Other: Git, Docker, Go, Linux, Rabbit MQ, Java..
 
 **PostDoctoral researcher** @ Q4Q Lab · University of Trieste _Dic 19 - Aug 20_
 
-**Doctor of Philosophy** @ Q4Q Lab · University of Trieste _Sep 16 - Dic 19_
+**PhD candidate** @ Q4Q Lab · University of Trieste _Sep 16 - Dic 19_
 
-Investigated microscopic processes through light-matter interaction using stochastic laser pulses as a novel technique 
+I investigated microscopic processes through light-matter interaction using stochastic laser pulses
 
 - Ultrashort near-infrared pulsed laser
 - Liquid crystal spatial light modulator
@@ -32,7 +32,7 @@ Investigated microscopic processes through light-matter interaction using stocha
 
 ### 💬 Languages
 
-**Italian**: mothertongue
+**Italian**: native
 
 **English**: B2
 
