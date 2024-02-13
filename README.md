@@ -4,7 +4,7 @@
 
 updated on _13/24_
 
-## ⌨️ IT Working experience
+## ⌨️ <span style="color:blue">IT Working experience</span>
 
 **Backend developer** @ [Where Tech](https://wheretech.it/) _May 21 - present_
 
@@ -17,7 +17,7 @@ Currently working as a Python programmer:
 Other: Git, Docker, Go, Linux, Rabbit MQ, Java..
 
 
-## 🔬 Research experience
+## 🔬 <span style="color:blue">Research experience</span>
 
 **PostDoctoral researcher** @ Q4Q Lab · University of Trieste _Dic 19 - Aug 20_
 
@@ -30,14 +30,14 @@ I investigated microscopic processes through light-matter interaction using stoc
 - Lab equipment (optical, mechanical, electronic)
 
 
-### 💬 Languages
+### 💬 <span style="color:blue">Languages</span>
 
 **Italian**: native
 
 **English**: B2
 
 
-### 📃 Certificates
+### 📃 <span style="color:blue">Certificates</span>
 
 [**ESRI ArcGIS Pro Foundation**](https://www.credly.com/badges/45c6c71b-e405-4ff3-97c8-a62f0b65b371) _28/01/22_
 
