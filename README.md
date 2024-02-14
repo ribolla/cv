@@ -1,10 +1,10 @@
-## Giorgia Sparapassi
+## <span style="color:#8c4f7f">Giorgia Sparapassi</span>
 
-# _short curriculum vitae_
+## _short curriculum vitae_
 
 updated on _13/24_
 
-## ⌨️ <span style="color:#5c90b5">IT Working experience</span>
+## ⌨️ <span style="color:#b366a2">IT Working experience</span>
 
 **Backend developer** @ [Where Tech](https://wheretech.it/) _May 21 - present_
 
@@ -17,7 +17,7 @@ Currently working as a Python programmer:
 Other: Git, Docker, Go, Linux, Rabbit MQ, Java..
 
 
-## 🔬 <span style="color:#5c90b5">Research experience</span>
+## 🔬 <span style="color:#b366a2">Research experience</span>
 
 **PostDoctoral researcher** @ Q4Q Lab · University of Trieste _Dic 19 - Aug 20_
 
@@ -30,14 +30,14 @@ I investigated microscopic processes through light-matter interaction using stoc
 - Lab equipment (optical, mechanical, electronic)
 
 
-### 💬 <span style="color:blue">Languages</span>
+### 💬 <span style="color:#b366a2">Languages</span>
 
 **Italian**: native
 
 **English**: B2
 
 
-### 📃 <span style="color:#5c90b5">Certificates</span>
+### 📃 <span style="color:#b366a2">Certificates</span>
 
 [**ESRI ArcGIS Pro Foundation**](https://www.credly.com/badges/45c6c71b-e405-4ff3-97c8-a62f0b65b371) _28/01/22_
 
