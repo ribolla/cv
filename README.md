@@ -1,7 +1,5 @@
 # <span style="color:#8c4f7f">Giorgia Sparapassi</span>
 
-_Python developer, peeking into other areas of backend development._\
-_I am curious and determined, and find my way through complex scenarios._\
 ### 〰️ my nonlinear path 〰️
 
 ## ⌨️ <span style="color:#b366a2">IT experience</span>
