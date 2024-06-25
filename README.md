@@ -1,7 +1,5 @@
 ## <span style="color:#8c4f7f">Giorgia Sparapassi</span>
 
-![Profile Picture](/assets/profile_picture_small.jpeg)
-
 ### _short curriculum vitae_
 
 updated on _06/2024_
