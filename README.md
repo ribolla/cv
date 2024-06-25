@@ -1,30 +1,29 @@
 # <span style="color:#8c4f7f">Giorgia Sparapassi</span>
 
-_Currently employed as a Python developer, peeking into other areas of backend development.
+_Currently employed as a Python developer, peeking into other areas of backend development.\n
 Educated in condensed matter Physics, I am curious and determined._
 
 
 
 ## ⌨️ <span style="color:#b366a2">IT experience</span>
 
-**Python developer** @ [Where Tech](https://wheretech.it/) _May 21 - present_
+**Python developer** @ [Where Tech](https://wheretech.it/) _(May 21 - present)_
+My focus is the development of GIS-based backend solutions, employing mainly the following Python libraries:
 
-Currently working as a Python programmer:
-
-- Data Analysis (pandas, numpy, scipy, ...)
-- microservices architectures (fastapi, asyncio, pika, ...)
+- data Analysis (pandas, numpy, scipy, ...)
+- distributed architectures (fastapi, asyncio, pika, ...)
 - GIS workflows and geoprocessing (arcpy, arcgis, gdal, ...)
 
-Basics of other technologies: Git, Docker, Go, Linux, Rabbit MQ, Java..
+I am also a basic user of other technologies: Git, Docker, Go, Linux, Rabbit MQ, ..
 
 ## 🔬 <span style="color:#b366a2">Research experience</span>
 
-**PostDoctoral researcher** @ Q4Q Lab · University of Trieste _Dic 19 - Aug 20_
+**PostDoctoral researcher** @ Q4Q Lab · University of Trieste _(Dic 19 - Aug 20)_
+I performed extensive data analysis in close collaboration with theoretical physics colleagues to model microscopic interactions.
 
-**PhD candidate** @ Q4Q Lab · University of Trieste _Sep 16 - Dic 19_
-
-I investigated microscopic processes through light-matter interaction using stochastic laser pulses
-
+**PhD candidate** @ Q4Q Lab · University of Trieste _(Sep 16 - Dic 19)_
+I investigated microscopic processes through light-matter interaction using stochastic laser pulses.
+*Technologies used:*
 - Ultrashort near-infrared pulsed laser
 - Liquid crystal spatial light modulator
 - Lab equipment (optical, mechanical, electronic)
