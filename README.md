@@ -1,20 +1,21 @@
 # <span style="color:#8c4f7f">Giorgia Sparapassi</span>
 
-_Currently employed as a Python developer, peeking into other areas of backend development.\n
-Educated in condensed matter Physics, I am curious and determined._
+_Currently employed as a Python developer, peeking into other areas of backend development._
+
+_Educated in condensed matter Physics, I am curious and determined, and find my way through complex scenarios._
 
 
 
 ## ⌨️ <span style="color:#b366a2">IT experience</span>
 
 **Python developer** @ [Where Tech](https://wheretech.it/) _(May 21 - present)_
-My focus is the development of GIS-based backend solutions, employing mainly the following Python libraries:
+Focusing on the development of GIS-based backend solutions, employing mainly:
 
 - data Analysis (pandas, numpy, scipy, ...)
 - distributed architectures (fastapi, asyncio, pika, ...)
 - GIS workflows and geoprocessing (arcpy, arcgis, gdal, ...)
 
-I am also a basic user of other technologies: Git, Docker, Go, Linux, Rabbit MQ, ..
+Basic knowledge of: Git, Docker, Go, Linux, Rabbit MQ, ..
 
 ## 🔬 <span style="color:#b366a2">Research experience</span>
 
