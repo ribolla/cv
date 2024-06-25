@@ -1,4 +1,4 @@
-<span style="color:#8c4f7f">Giorgia Sparapassi</span>
+#### <span style="color:#8c4f7f">Giorgia Sparapassi</span>
 
 _Currently swimming in the vast sea of IT. I work as a Python developer, peeking into other areas of backend development.
 Educated in condensed matter Physics, I am eager to expand my knowledge and master new tools._
