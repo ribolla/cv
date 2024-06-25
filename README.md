@@ -1,13 +1,13 @@
 # <span style="color:#8c4f7f">Giorgia Sparapassi</span>
 
-_Currently swimming in the vast sea of IT. I work as a Python developer, peeking into other areas of backend development.
-Educated in condensed matter Physics, I am eager to expand my knowledge and master new tools._
+_Currently employed as a Python developer, peeking into other areas of backend development.
+Educated in condensed matter Physics, I am curious and determined._
 
 
 
 ## ⌨️ <span style="color:#b366a2">IT experience</span>
 
-**Backend developer** @ [Where Tech](https://wheretech.it/) _May 21 - present_
+**Python developer** @ [Where Tech](https://wheretech.it/) _May 21 - present_
 
 Currently working as a Python programmer:
 
@@ -16,7 +16,6 @@ Currently working as a Python programmer:
 - GIS workflows and geoprocessing (arcpy, arcgis, gdal, ...)
 
 Basics of other technologies: Git, Docker, Go, Linux, Rabbit MQ, Java..
-
 
 ## 🔬 <span style="color:#b366a2">Research experience</span>
 
