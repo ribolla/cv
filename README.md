@@ -1,7 +1,5 @@
 # <span style="color:#8c4f7f">Giorgia Sparapassi</span>
 
-### 〰️ my nonlinear path 〰️
-
 ## ⌨️ <span style="color:#b366a2">IT experience</span>
 
 **Python developer** @ [Where Tech](https://wheretech.it/) _(May 21 - present)_\
