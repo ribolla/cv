@@ -1,6 +1,6 @@
 # <span style="color:#8c4f7f">Giorgia Sparapassi</span>
 
-〰️ _my nonlinear path_ 〰️
+_Developer and physicist looking for new challenges_
 
 ## ⌨️ <span style="color:#b366a2">IT experience</span>
 
@@ -37,7 +37,8 @@ I investigated microscopic processes through light-matter interaction using stoc
 [**ESRI ArcGIS Pro Foundation**](https://www.credly.com/badges/45c6c71b-e405-4ff3-97c8-a62f0b65b371) _28/01/22_
 
 
-
 #### _[my LinkedIn page](https://www.linkedin.com/in/giorgia-sparapassi/)_
 
 updated on _06/2024_
+
+TL;DR: 👩🏻‍🔬>👩🏻‍💻>🙋🏻‍♀️
