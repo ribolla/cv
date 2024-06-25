@@ -2,7 +2,7 @@
 
 ## _short curriculum vitae_
 
-updated on _13/24_
+updated on _06/2024_
 
 ## ⌨️ <span style="color:#b366a2">IT Working experience</span>
 
@@ -10,11 +10,11 @@ updated on _13/24_
 
 Currently working as a Python programmer:
 
-- Data Analysis (pandas, numpy, scipy, ..)
-- microservices architectures (fastapi, asyncio, ..)
-- GIS workflows and ESRI geoprocessing (arcpy, gdal, ..)
+- Data Analysis (pandas, numpy, scipy, ...)
+- microservices architectures (fastapi, asyncio, pika, ...)
+- GIS workflows and geoprocessing (arcpy, arcgis, gdal, ...)
 
-Other: Git, Docker, Go, Linux, Rabbit MQ, Java..
+Basics of other technologies: Git, Docker, Go, Linux, Rabbit MQ, Java..
 
 
 ## 🔬 <span style="color:#b366a2">Research experience</span>
