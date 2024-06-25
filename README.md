@@ -1,8 +1,9 @@
-## <span style="color:#8c4f7f">Giorgia Sparapassi</span>
+<span style="color:#8c4f7f">Giorgia Sparapassi</span>
 
-### _short curriculum vitae_
+_Currently swimming in the vast sea of IT. I work as a Python developer, peeking into other areas of backend development.
+Educated in condensed matter Physics, I am eager to expand my knowledge and master new tools._
 
-updated on _06/2024_
+
 
 ## ⌨️ <span style="color:#b366a2">IT experience</span>
 
@@ -44,3 +45,5 @@ I investigated microscopic processes through light-matter interaction using stoc
 
 
 #### _[my LinkedIn page](https://www.linkedin.com/in/giorgia-sparapassi/)_
+
+updated on _06/2024_
