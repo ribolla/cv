@@ -40,5 +40,3 @@ I investigated microscopic processes through light-matter interaction using stoc
 #### _[my LinkedIn page](https://www.linkedin.com/in/giorgia-sparapassi/)_
 
 updated on _06/2024_
-
-TL;DR: 👩🏻‍🔬>👩🏻‍💻>🙋🏻‍♀️
