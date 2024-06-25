@@ -1,6 +1,6 @@
 # <span style="color:#8c4f7f">Giorgia Sparapassi</span>
 
-_Developer and physicist looking for new challenges_
+_Python developer, peeking into other areas of backend development._
 
 ## ⌨️ <span style="color:#b366a2">IT experience</span>
 
