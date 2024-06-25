@@ -1,7 +1,7 @@
 # <span style="color:#8c4f7f">Giorgia Sparapassi</span>
 
-_Python developer, peeking into other areas of backend development.\I am curious and determined, and find my way through complex scenarios._
-
+_Python developer, peeking into other areas of backend development._\
+_I am curious and determined, and find my way through complex scenarios._
 
 
 ## ⌨️ <span style="color:#b366a2">IT experience</span>
@@ -21,8 +21,8 @@ Basic knowledge of: Git, Docker, Go, Linux, Rabbit MQ, ..
 I performed extensive data analysis in close collaboration with theoretical physics colleagues to model microscopic interactions.
 
 **PhD candidate** @ Q4Q Lab · University of Trieste _(Sep 16 - Dic 19)_\
-I investigated microscopic processes through light-matter interaction using stochastic laser pulses.
-*Technologies used:*
+I investigated microscopic processes through light-matter interaction using stochastic laser pulses.\
+#### Technologies used:
 - Ultrashort near-infrared pulsed laser
 - Liquid crystal spatial light modulator
 - Lab equipment (optical, mechanical, electronic)
