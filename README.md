@@ -4,7 +4,7 @@
 
 updated on _06/2024_
 
-## ⌨️ <span style="color:#b366a2">IT Working experience</span>
+## ⌨️ <span style="color:#b366a2">IT experience</span>
 
 **Backend developer** @ [Where Tech](https://wheretech.it/) _May 21 - present_
 
@@ -43,4 +43,4 @@ I investigated microscopic processes through light-matter interaction using stoc
 
 
 
-#### _complete curriculum vitae on [my LinkedIn profile](https://www.linkedin.com/in/giorgia-sparapassi/)_
+#### _[my LinkedIn page](https://www.linkedin.com/in/giorgia-sparapassi/)_
