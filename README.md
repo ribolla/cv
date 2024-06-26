@@ -13,7 +13,7 @@ Focusing on the development of GIS-based backend solutions, employing mainly:
 
 Basic knowledge of: Git, Docker, Go, Linux, Rabbit MQ, ..
 
-[***More on this***]([/assets/img/profile_picture_small.jpg](https://i.pinimg.com/originals/c5/ee/51/c5ee5152fd8575cd966fa258addca1a1.gif))
+[<span style="color:#b366a2">More details</span>](https://i.pinimg.com/originals/c5/ee/51/c5ee5152fd8575cd966fa258addca1a1.gif)
 
 ## 🔬 <span style="color:#b366a2">Scientific background</span>
 
@@ -26,6 +26,7 @@ I investigated microscopic processes through light-matter interaction using stoc
 - Liquid crystal spatial light modulator
 - Lab equipment (optical, mechanical, electronic)
 
+[<span style="color:#b366a2">More details</span>](https://i.pinimg.com/originals/c5/ee/51/c5ee5152fd8575cd966fa258addca1a1.gif)
 
 ### 💬 <span style="color:#b366a2">Languages</span>
 
