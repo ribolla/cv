@@ -1,6 +1,6 @@
 # <span style="color:#8c4f7f">Giorgia Sparapassi</span>
 
-_Currently Python developer, peeking into other areas of backend development. Based in Rome (IT)_
+_Python developer, based in Rome (IT)_
 
 ## ⌨️ <span style="color:#b366a2">IT experience</span>
 
@@ -17,10 +17,10 @@ Basic knowledge of: Git, Docker, Go, Linux, Rabbit MQ, ..
 
 ## 🔬 <span style="color:#b366a2">Scientific background</span>
 
-**PostDoctoral researcher** @ Q4Q Lab · University of Trieste _(Dic 19 - Aug 20)_\
+**PostDoctoral researcher** @ Q4Q Lab · University of Trieste _(Dec 19 - Aug 20)_\
 I performed extensive data analysis in close collaboration with theoretical physics colleagues to model microscopic interactions.
 
-**PhD candidate** @ Q4Q Lab · University of Trieste _(Sep 16 - Dic 19)_\
+**PhD candidate** @ Q4Q Lab · University of Trieste _(Sep 16 - Dec 19)_\
 I investigated microscopic processes through light-matter interaction using stochastic laser pulses. Technologies used:
 - Ultrashort near-infrared pulsed laser
 - Liquid crystal spatial light modulator
