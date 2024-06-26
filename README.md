@@ -5,11 +5,11 @@ _Python developer, based in Rome (IT)_
 ## ⌨️ <span style="color:#b366a2">IT experience</span>
 
 **Python developer** @ [Where Tech](https://wheretech.it/) _(May 21 - present)_\
-Focusing on the development of GIS-based backend solutions, employing mainly:
-
-- data Analysis (pandas, numpy, scipy, ...)
-- distributed architectures (fastapi, asyncio, pika, ...)
-- GIS workflows and geoprocessing (arcpy, arcgis, gdal, ...)
+Focusing on the development of backend solutions, employing mainly:
+•	pandas, numpy, scipy for data analysis
+•	fastapi, uvicorn, asyncio, pika for distributed architectures
+•	pydantic, typing for data validation
+•	arcpy, arcgis, gdal for GIS workflows and geoprocessing
 
 Basic knowledge of: Git, Docker, Go, Linux, Rabbit MQ, ..
 
