@@ -1,6 +1,6 @@
 # <span style="color:#8c4f7f">Giorgia Sparapassi</span>
 
-_Python developer, peeking into other areas of backend development._
+_Currently Python developer, peeking into other areas of backend development. Based in Rome (IT)_
 
 ## ⌨️ <span style="color:#b366a2">IT experience</span>
 
@@ -12,6 +12,8 @@ Focusing on the development of GIS-based backend solutions, employing mainly:
 - GIS workflows and geoprocessing (arcpy, arcgis, gdal, ...)
 
 Basic knowledge of: Git, Docker, Go, Linux, Rabbit MQ, ..
+
+[***More on this***](/assets/img/profile_picture_small.jpg)
 
 ## 🔬 <span style="color:#b366a2">Scientific background</span>
 
