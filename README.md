@@ -4,7 +4,7 @@ _Python developer, based in Rome (IT)_
 
 ## ⌨️ <span style="color:#b366a2">IT experience</span>
 
-**Python developer** @ [Where Tech](https://wheretech.it/) _(May 21 - present)_\
+**Software developer** @ [Where Tech](https://wheretech.it/) _(May 21 - present)_\
 Focusing on the development of backend solutions, employing mainly:
 - pandas, numpy, scipy for data analysis
 - fastapi, uvicorn, asyncio, pika for distributed architectures
@@ -37,9 +37,9 @@ I investigated microscopic processes through light-matter interaction using stoc
 
 ### 📃 <span style="color:#b366a2">Certificates</span>
 
-[**ESRI ArcGIS Pro Foundation**](https://www.credly.com/badges/45c6c71b-e405-4ff3-97c8-a62f0b65b371) _28/01/22_
-
+[**ArcGIS Pro Foundation (ESRI)**](https://www.credly.com/badges/45c6c71b-e405-4ff3-97c8-a62f0b65b371) _28/01/22_
+[**Scrum Master (International Scrum Institute™)**](https://www.scrum-institute.org/badges/03270505186170) _08/07/24_
 
 #### _[my LinkedIn page](https://www.linkedin.com/in/giorgia-sparapassi/)_
 
-updated on _06/2024_
+updated on _09/07/2024_
