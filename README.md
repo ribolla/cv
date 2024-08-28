@@ -38,6 +38,7 @@ I investigated microscopic processes through light-matter interaction using stoc
 ### 📃 <span style="color:#b366a2">Certificates</span>
 
 [**ArcGIS Pro Foundation (ESRI)**](https://www.credly.com/badges/45c6c71b-e405-4ff3-97c8-a62f0b65b371) _28/01/22_
+
 [**Scrum Master (International Scrum Institute™)**](https://www.scrum-institute.org/badges/03270505186170) _08/07/24_
 
 #### _[my LinkedIn page](https://www.linkedin.com/in/giorgia-sparapassi/)_
